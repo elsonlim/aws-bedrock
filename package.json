@@ -1,0 +1,21 @@
+{
+  "name": "aws-bedrock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock": "^3.679.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.679.0"
+  }
+}

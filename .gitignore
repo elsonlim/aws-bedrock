@@ -1,0 +1,30 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/
+
+# Build artifacts
+/build/
+/dist/
+/target/
+
+# Dependency caches
+/node_modules/
+/vendor/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Log files
+*.log
+
+# Secrets and credentials (important!)
+.env
+*.pem
+*.key
